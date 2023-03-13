@@ -1,0 +1,25 @@
+{
+  "name": "@mcm1957/iobroker.library",
+  "version": "0.0.2",
+  "description": "support library for ioBroker adapters",
+  "main": "library.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcm1957/ioBroker.library.git"
+  },
+  "keywords": [
+    "ioBroker"
+  ],
+  "author": "mcm1957",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcm1957/ioBroker.library/issues"
+  },
+  "homepage": "https://github.com/mcm1957/ioBroker.library#readme"
+}
