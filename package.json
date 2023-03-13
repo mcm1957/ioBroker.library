@@ -1,6 +1,6 @@
 {
   "name": "@mcm1957/iobroker.library",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "support library for ioBroker adapters",
   "main": "library.js",
   "directories": {
